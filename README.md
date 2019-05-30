@@ -10,14 +10,14 @@ This is a function that like the human ear move in much the same way as picking 
 
  EX.Image is neural network being used.
 
- |                           (DATA OUT)
- |                           /
- |                    /-----O
- |                   /      |
- |                  O       O
- |                 /|      /|
- |                O O     O O
- |               /  |    /  |
- |              O   O   O   O
- |             /|  /|  /|  /|
- |  (DATA IN)-O-O-O-O-O-O-O-O  <= class argument is 8.
+ #                           (DATA OUT)
+ #                           /
+ #                    /-----O
+ #                   /      |
+ #                  O       O
+ #                 /|      /|
+ #                O O     O O
+ #               /  |    /  |
+ #              O   O   O   O
+ #             /|  /|  /|  /|
+ #  (DATA IN)-O-O-O-O-O-O-O-O  <= class argument is 8.
